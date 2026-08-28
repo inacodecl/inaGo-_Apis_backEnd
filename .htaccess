@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/inacodec/api.inago.inacode.cl"
+PassengerBaseURI "/"
+PassengerNodejs "/home/inacodec/nodevenv/api.inago.inacode.cl/22/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

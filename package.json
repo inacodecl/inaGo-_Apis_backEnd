@@ -1,0 +1,20 @@
+{
+  "name": "inamap-server",
+  "version": "1.0.0",
+  "description": "Backend Express + Firebase Admin para Inamap",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "firebase-admin": "^13.10.0",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
